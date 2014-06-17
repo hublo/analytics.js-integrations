@@ -31,6 +31,7 @@ require('../lib/gosquared/test.js');
 require('../lib/heap/test.js');
 require('../lib/hellobar/test.js');
 require('../lib/hittail/test.js');
+require('../lib/hublo/test.js');
 require('../lib/hubspot/test.js');
 require('../lib/improvely/test.js');
 require('../lib/inspectlet/test.js');
